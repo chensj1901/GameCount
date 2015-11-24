@@ -1,0 +1,33 @@
+PODS:
+  - AdsMoGo-iOS-Lib (1.0.0)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - FMDBx (0.2.0):
+    - FMDB
+  - iOS-Hierarchy-Viewer (1.4.7)
+  - IQKeyboardManager (3.2.1.2)
+  - UMengAnalytics-NO-IDFA (3.4.7)
+
+DEPENDENCIES:
+  - AdsMoGo-iOS-Lib (from `/Users/chenshaojie/Desktop/project/AdsMoGo-iOS-Lib`)
+  - FMDBx (~> 0.2.0)
+  - iOS-Hierarchy-Viewer (~> 1.4.7)
+  - IQKeyboardManager (~> 3.2.1.0)
+  - UMengAnalytics-NO-IDFA (~> 3.4.5)
+
+EXTERNAL SOURCES:
+  AdsMoGo-iOS-Lib:
+    :path: /Users/chenshaojie/Desktop/project/AdsMoGo-iOS-Lib
+
+SPEC CHECKSUMS:
+  AdsMoGo-iOS-Lib: 8ecbc8e56207dccef28121d77b53656da6aee1bd
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  FMDBx: 702c56be38c413384e44113f276e022803e09996
+  iOS-Hierarchy-Viewer: fb8ef72b55a8915ab0575543970754ea696e9061
+  IQKeyboardManager: 4adcd7cc9c17440a7cb74755f6f6c8389919c6bf
+  UMengAnalytics-NO-IDFA: 68a71671c10067315339fc3fd1283be416f02a8b
+
+COCOAPODS: 0.38.2

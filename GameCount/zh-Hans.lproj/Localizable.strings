@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  GameCount
+
+  Created by 陈少杰 on 15/2/13.
+  Copyright (c) 2015年 陈少杰. All rights reserved.
+*/
+"Team Name"="队名";
+"titleImage_e.png"="titleImage.png";
+"index_startTitle_e.png"="index_startTitle_c.png";
+"index_historyTitle_e.png"="index_historyTitle_c.png";
+"index_appRecommendBtn_e.png"="index_appRecommendBtn_c.png";
+"Tips"="提示";
+"Do you want to save the result"="是否保存比赛结果？";
+"Cancel"="取消";
+"Save"="保存";
+"Back without Save"="直接退出";
